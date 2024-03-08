@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "ethernet_init.h": "c",
+        "mbcontroller.h": "c",
+        "modbus_params.h": "c",
+        "optional": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "istream": "c",
+        "ostream": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
