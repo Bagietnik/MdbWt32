@@ -1,3 +1,5 @@
+Modbus handling using WT32. Details in mdb_doc.pdf
+
 1) . $HOME/esp/esp-idf/export.sh
 2) idf.py fullclean 
 3) idf.py menuconfig 
